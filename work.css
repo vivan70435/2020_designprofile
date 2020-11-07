@@ -52,7 +52,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
-    background-image: url(../images/project_detail_bg.jpg);
+    background-image: url(project_detail_bg.jpg);
     padding: 80px 90px 300px 90px;
     position: relative;
     background-attachment: fixed;

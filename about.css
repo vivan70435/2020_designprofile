@@ -69,7 +69,7 @@
 
 .rotate_hithere h4:after {
     content: '';
-    background-image: url(../images/rotate_hithere-01.svg);
+    background-image: url(rotate_hithere-01.svg);
     background-repeat: no-repeat;
     background-position: center center;
     position: absolute;
@@ -148,12 +148,12 @@
 }
 
 .skills_item_1 {
-    background-image: url(../images/skill_p1.png);
+    background-image: url(skill_p1.png);
 
 }
 
 .skills_item_2 {
-    background-image: url(../images/skill_p2.png);
+    background-image: url(skill_p2.png);
 
 }
 
