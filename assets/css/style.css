@@ -320,7 +320,7 @@ img {
 
 .kv .kv_rotate_l h5:after {
     content: '';
-    background-image: url(rotate_l.svg);
+    background-image: url(../images/rotate_l.svg);
     background-repeat: no-repeat;
     background-position: center center;
     position: absolute;
@@ -377,7 +377,7 @@ img {
     bottom: 0;
     width: 150px;
     height: 150px;
-    background-image: url(rotate_r.svg);
+    background-image: url(../images/rotate_r.svg);
     background-repeat: no-repeat;
     background-position: center center;
     -webkit-animation: rotating 12s linear infinite;
@@ -672,7 +672,7 @@ img {
     height: 60px;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url(messenges_icon_sprite.png);
+    background-image: url(../images/messenges_icon_sprite.png);
     margin: 0 auto;
 }
 
@@ -849,7 +849,7 @@ img {
     height: 80px;
     display: block;
     bottom: 46px;
-    background-image: url(btn_arrow.png);
+    background-image: url(../images/btn_arrow.png);
     background-repeat: no-repeat;
     background-position: bottom;
     background-size: contain;
