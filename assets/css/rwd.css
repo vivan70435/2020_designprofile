@@ -397,7 +397,7 @@
         height: 100px;
         margin: 0 auto;
         padding: 35px 20px;
-        font-size: 0.1rem;
+        font-size:0.9rem;
     }
 
     .kv .kv_rotate_r {
@@ -462,7 +462,7 @@
     }
 
     .down h6 {
-        font-size: 0.1rem;
+        font-size: 0.9rem;
     }
 
     .kv .down img {
@@ -642,6 +642,9 @@
     .work_kv_title p span {
         margin-left: 0;
     }
+    .work_kv_title:after {
+    display: none;
+}
 
 }
 
@@ -753,7 +756,7 @@
         height: 90px;
         margin: 0 auto;
         padding: 30px 10px;
-        font-size: 0.1rem;
+        font-size: 0.9rem;
     }
 
     .kv .kv_rotate_l h5:after {
