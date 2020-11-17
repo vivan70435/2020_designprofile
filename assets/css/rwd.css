@@ -397,7 +397,7 @@
         height: 100px;
         margin: 0 auto;
         padding: 35px 20px;
-        font-size:0.9rem;
+        font-size:0.6rem;
     }
 
     .kv .kv_rotate_r {
@@ -756,7 +756,7 @@
         height: 90px;
         margin: 0 auto;
         padding: 30px 10px;
-        font-size: 0.9rem;
+        font-size: 0.6rem;
     }
 
     .kv .kv_rotate_l h5:after {
