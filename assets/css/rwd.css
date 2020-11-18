@@ -10,7 +10,27 @@
 /*=================1360px======================*/
 
 /*===========(ONLY FOR ABOUT)==============*/
-@media screen and (min-width: 1680px) and (max-width: 2560px) {
+@media screen and (min-width: 2400px) and (max-width: 2560px) {
+    .l_pic img {
+        width: 80%;
+    }
+
+    .rotate_hithere h4 {
+        position: absolute;
+        right: 257px;
+        bottom: 365px;
+        color: #f93801;
+    }
+
+    .r_text {
+        position: absolute;
+        right: 0;
+        top: 0;
+        padding: 100px 740px 100px 220px;
+    }
+}
+
+@media screen and (min-width: 1680px) and (max-width: 2399px) {
     .l_pic img {
         width: 80%;
     }
