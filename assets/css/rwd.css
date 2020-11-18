@@ -10,6 +10,27 @@
 /*=================1360px======================*/
 
 /*===========(ONLY FOR ABOUT)==============*/
+@media screen and (min-width: 1680px) and (max-width: 1920px) {
+    .l_pic img {
+        width: 80%;
+    }
+
+    .rotate_hithere h4 {
+        position: absolute;
+        right: 157px;
+        bottom: 138px;
+        color: #f93801;
+    }
+
+    .r_text {
+        position: absolute;
+        right: 0;
+        top: 0;
+        padding: 100px 390px 100px 190px;
+    }
+}
+
+
 @media (max-width: 1171px) {
     .l_pic img {
         width: 80%;
@@ -397,7 +418,7 @@
         height: 100px;
         margin: 0 auto;
         padding: 35px 20px;
-        font-size:0.6rem;
+        font-size: 0.6rem;
     }
 
     .kv .kv_rotate_r {
@@ -642,9 +663,10 @@
     .work_kv_title p span {
         margin-left: 0;
     }
+
     .work_kv_title:after {
-    display: none;
-}
+        display: none;
+    }
 
 }
 
